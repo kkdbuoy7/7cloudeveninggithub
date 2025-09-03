@@ -1,0 +1,9 @@
+{
+	"name": "7cloudevenggithub",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6456733d-a7f5-4146-a18b-3104bbdae229",
+		"tenantId": "ca7e3749-ad5f-4586-bee9-17e3e34fc5be"
+	}
+}
